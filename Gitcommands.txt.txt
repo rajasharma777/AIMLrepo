@@ -2,3 +2,4 @@ sncdv
 HHGCGF
 gggddsdsd
 working on stash command.
+UPDATING FROM VISUAL STUDIO.
