@@ -2,3 +2,4 @@
 2.GIT PULL
 3.create your brnch and make chaneh
 4.hello
+5.git commit -a
