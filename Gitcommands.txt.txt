@@ -1,3 +1,4 @@
 sncdv
 HHGCGF
 gggddsdsd
+working on stash command.
